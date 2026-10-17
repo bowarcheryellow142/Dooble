@@ -225,4 +225,4 @@ Dooble is released as a full free version with all features and updates included
 Ready to enhance your browsing experience? Download **Dooble** today and enjoy a safer, more private internet!
 
 ---
-**Last updated:** 2026-10-16 22:17:18 UTC
+**Last updated:** 2026-10-17 00:52:41 UTC
